@@ -48,7 +48,7 @@ namespace dinocootomasyon
                 UyariForm uyari = new UyariForm();
                 UyariForm.durum = "Uyarı";
                 UyariForm.baslik = "BAŞARISIZ";
-                UyariForm.uyaritext = "Boş alanları doldurunuz.";
+                UyariForm.uyaritext = "Lütfen Boş alanları doldurunuz.";
                 uyari.Show();
             }
             else
